@@ -6,3 +6,12 @@ body {
   font-family: 'Inter', sans-serif;
   margin: 0;
 }
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar > h2 {
+  margin-right: auto;
+}
